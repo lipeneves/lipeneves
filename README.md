@@ -1,7 +1,7 @@
 ## 👋🏾HELLO WORLD! 
 ### Olá, Eu sou Felipe Neves! 🙋🏾‍♂️
 
-Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade na área como Desenvolvedor Front-End.
+Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade como Desenvolvedor Front-End.
 
 
 🎯 Estudando JavaScript 
