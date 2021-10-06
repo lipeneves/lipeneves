@@ -1,14 +1,16 @@
-## 👋🏾HELLO WORLD! 
+## 👋🏾HELLO WORLD!
+
 ### Olá, Eu sou Felipe Neves! 🙋🏾‍♂️
 
-Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade como Desenvolvedor Front-End.
+Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade como Desenvolvedor Fullstack Javascript.
 
-
-🎯 Estudando JavaScript 
+🎯 Estudando JavaScript
 
 🎯 Estudando React.js
 
 🎯 Estudando TypeScript
+
+🎯 Estudando Node.js
 
  <div>
   <a href="https://github.com/lipeneves">
@@ -26,7 +28,7 @@ Atualmente estou estudando e realizando projetos, buscando minha primeira oportu
 </div>
 
 ##
- 
+
 <div> 
 <a href = "mailto:rj.felipeneves@gmail.com"/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" "target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipenvs/" "target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" "target="_blank"></a> 
