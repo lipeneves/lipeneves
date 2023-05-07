@@ -2,7 +2,7 @@
 
 ### Olá, Eu sou Felipe Neves! 🙋🏾‍♂️
 
-Desenvolvedor Mobile e Web, especialista em React Native e Vue.JS.
+Desenvolvedor Mobile e Web, especialista em React Native e Vue.js
 
 ✅  Vue.js - Nível Avançado
 
