@@ -2,15 +2,19 @@
 
 ### Olá, Eu sou Felipe Neves! 🙋🏾‍♂️
 
-Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade como Desenvolvedor Fullstack Javascript.
+Desenvolvedor Mobile e Web, especialista em React Native e Vue.JS.
 
-🎯 Estudando JavaScript
+✅ Vue.js - Nível Avançado
 
-🎯 Estudando React.js
+✅ ReactJS - Nível Avançado
 
-🎯 Estudando TypeScript
+✅ React Native - Nível Avançado
 
-🎯 Estudando Node.js
+🎯 Estudando Desenvolvimento Backend C# (ASP.NET)
+
+🎯 Estudando Desenvolvimento iOS Nativo (Swift)
+
+🎯 Estudando Desenvolvimento Android Nativo (Kotlin)
 
  <div>
   <a href="https://github.com/lipeneves">
