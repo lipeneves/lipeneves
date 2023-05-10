@@ -4,13 +4,11 @@
 
 Desenvolvedor Mobile e Web, especialista em React Native e Vue.js
 
-✅  Vue.js - Nível Avançado
+✅  Desenvolvimento Web: Vue.js (Nível Avançado)
 
-✅  ReactJS - Nível Avançado
+✅  Desenvolvimento Mobile: React Native (Nível Avançado)
 
-✅  React Native - Nível Avançado
-
-🎯 Estudando Desenvolvimento Backend Go
+🎯 Desenvolvimento BackEnd: Go (Nível Iniciante)
 
 
  <div>
