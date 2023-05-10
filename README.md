@@ -10,11 +10,8 @@ Desenvolvedor Mobile e Web, especialista em React Native e Vue.js
 
 ✅  React Native - Nível Avançado
 
-🎯 Estudando Desenvolvimento Backend C# (ASP.NET)
+🎯 Estudando Desenvolvimento Backend Go
 
-🎯 Estudando Desenvolvimento iOS Nativo (Swift)
-
-🎯 Estudando Desenvolvimento Android Nativo (Kotlin)
 
  <div>
   <a href="https://github.com/lipeneves">
