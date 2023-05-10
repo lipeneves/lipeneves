@@ -1,6 +1,6 @@
 ## 👋🏾HELLO WORLD!
 
-### Olá, Eu sou Felipe Neves, desenvolvedor fullstack! 🙋🏾‍♂️
+### Olá, Eu sou Felipe Neves, Desenvolvedor Fullstack! 🙋🏾‍♂️
 
 ✅  Desenvolvimento Web: Vue.js (Nível Avançado)
 
