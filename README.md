@@ -2,13 +2,6 @@
 
 ### Olá, Eu sou Felipe Neves, Desenvolvedor Fullstack! 🙋🏾‍♂️
 
-✅  Desenvolvimento Web: Vue.js (Nível Avançado)
-
-✅  Desenvolvimento Mobile: React Native (Nível Avançado)
-
-🎯 Desenvolvimento BackEnd: Go (Nível Iniciante)
-
-
  <div>
   <a href="https://github.com/lipeneves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipeneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
